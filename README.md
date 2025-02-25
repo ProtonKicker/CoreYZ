@@ -1,6 +1,6 @@
 # CoreYZ
 World's first CoreYZ 3D printer! 
-Help me come up with a name for it~
+Help me come up with a name for it!
 
-The CAD are availle right now~
-I'll upload my draft ver ysson
+The CAD is available right now~
+They are not finished. Lots and lots of iterations are expected!
