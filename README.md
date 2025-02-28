@@ -16,3 +16,5 @@ Why 2 motors on the X?
 Why CoreYZ?
 1. Keep all motors active during print (save some cost and make the printer run more efficiently~)
 2. Better leveling with lying gantry!
+
+License. Let's go with CCBYNCSA for now. However, the files derived from other creators obeys the original license (eg. The snake oil toolhead)
