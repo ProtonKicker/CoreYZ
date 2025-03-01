@@ -1,26 +1,31 @@
 # CoreYZ
-World's first CoreYZ 3D printer! 
-Help me come up with a name for it!
 
-The CAD is available right now~
-They finished. However, lots and lots of iterations are expected!
+**Help me come up with a name for it!**
 
-I'll test the parts and make changes. My goal is to finish this printer before April.
+The world's first CoreYZ 3D printer!
 
-Right now the color of most of the printed parts are: A6B4C9 and CFDBE5.
+## CAD Files
 
+The CAD files are available in this repository. Please note that the design is still evolving, and many iterations are expected as I test and refine the parts. My goal is to complete the printer before April.
 
-For image previews of the 3D printer, see the "Pictures" folder.
+Currently, most of the printed parts are designed in colors A6B4C9 and CFDBE5.
 
+For image previews of the 3D printer, please see the "Pictures" folder.
 
-Why 2 motors on the X?
-1. I am planning for an IDEX variant.
-2. Make the X beam symmetric in weight distribution
-3. To be sure that the acceleration on X and Y is about the same
+## Design Rationale
 
-Why CoreYZ?
-1. Keep all motors active during print (save some cost and make the printer run more efficiently~)
-2. Better leveling with lying gantry!
+### Why two motors on the X-axis?
 
+- **Future IDEX Variant:** Planning for an Independent Dual Extruder (IDEX) version.
+- **Symmetric Weight Distribution:** To balance the weight on the X beam.
+- **Consistent Acceleration:** To ensure that the acceleration on the X and Y axes is similar.
 
-License. Let's go with CCBYNCSA for now. However, the files derived from other creators obeys the original license (eg. The snake oil toolhead)
+### Why CoreYZ?
+
+- **Motor Efficiency:** Keeps all motors active during printing, which can save costs and improve efficiency.
+- **Improved Leveling:** The lying gantry design allows for better leveling.
+- **Feasibility:** Though this is a new design, the firmware can be derived from the Voron Switchwire.
+
+## License
+
+The files in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license, unless otherwise specified. Note that some files derived from other creators retain their original licenses (e.g., the SnakeOil toolhead).
