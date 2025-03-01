@@ -3,9 +3,12 @@ World's first CoreYZ 3D printer!
 Help me come up with a name for it!
 
 The CAD is available right now~
-They are not finished. Lots and lots of iterations are expected!
+They finished. However, lots and lots of iterations are expected!
 
-Right now the color of printed parts is: A6B4C9.
+I'll test the parts and make changes. My goal is to finish this printer before April.
+
+Right now the color of most of the printed parts are: A6B4C9 and CFDBE5.
+
 
 For image previews of the 3D printer, see the "Pictures" folder.
 
