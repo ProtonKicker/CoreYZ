@@ -6,7 +6,7 @@ The world's first CoreYZ 3D printer!
 
 ## CAD Files
 
-The CAD files are available in this repository. Please note that the design is still evolving, and many iterations are expected as I test and refine the parts. My goal is to complete the printer before April.
+The CAD files are available in this repository. Please note that the design is still evolving, and many iterations are expected as I test and refine the parts. I'll find a time in the future to test the parts.
 
 Currently, most of the printed parts are designed in colors A6B4C9 and CFDBE5.
 
