@@ -13,3 +13,5 @@ So the first stage (building an enclosed flying gantry CoreYZ printer) is archiv
 
 
 #### Currently the bedslinger CoreYZ is half finished, but I'm making the CAD availible~
+
+I'll need to make the belt tensioners, which is very troublesome for me, and then this design will be done
