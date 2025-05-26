@@ -12,9 +12,6 @@ I came up with a better idea and want to use CoreYZ on bedslingers instead
 So the first stage (building an enclosed flying gantry CoreYZ printer) is archived. 
 
 
-#### Currently the bedslinger CoreYZ is almost finished, but I'm making the CAD availible~
+#### Currently the bedslinger CoreYZ's CAD is finished (might need some minor adjustments)
 
-I'll need to make the belt tensioners, which is very troublesome for me, and then this design will be done
-
-
-Some parts are already printed and I am starting the build!
+I'm starting the build and you will see the actual printer in action very soon!
